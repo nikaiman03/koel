@@ -63,8 +63,8 @@ importers:
         specifier: ^4.17.21
         version: 4.17.21
       lucide-vue-next:
-        specifier: ^0.452.0
-        version: 0.452.0(vue@3.5.17(typescript@5.8.3))
+        specifier: ^0.555.0
+        version: 0.555.0(vue@3.5.17(typescript@5.8.3))
       nouislider:
         specifier: ^14.7.0
         version: 14.7.0
@@ -3107,8 +3107,8 @@ packages:
   lru-cache@10.4.3:
     resolution: {integrity: sha512-JNAzZcXrCt42VGLuYz0zfAzDfAvJWW6AfYlDBQyDV5DClI2m5sAmK+OIO7s59XfsRsWHp02jAJrRadPRGTt6SQ==}
 
-  lucide-vue-next@0.452.0:
-    resolution: {integrity: sha512-a7i6LayYT/kPDkwRvcWWZlPTRPiaM11xhUhFctRXmjibZod9TdVhk4U/7q2RYYkkkDJHp/4OSiXbxC82+mda3Q==}
+  lucide-vue-next@0.555.0:
+    resolution: {integrity: sha512-7hczPsiMD/y+VNLpal5Q5Wv09kQxlHS0l/cM1xagrd+MA3i5umMm+PUXqllvsbgwAl3PHv27fo59h4PN02GM5A==}
     peerDependencies:
       vue: '>=3.0.1'
 
@@ -7561,7 +7561,7 @@ snapshots:
 
   lru-cache@10.4.3: {}
 
-  lucide-vue-next@0.452.0(vue@3.5.17(typescript@5.8.3)):
+  lucide-vue-next@0.555.0(vue@3.5.17(typescript@5.8.3)):
     dependencies:
       vue: 3.5.17(typescript@5.8.3)
 
